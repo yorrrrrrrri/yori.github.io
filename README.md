@@ -1,0 +1,2 @@
+# yori.github.io
+dailynotes
